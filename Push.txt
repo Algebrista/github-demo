@@ -52,3 +52,5 @@ git fetch upstream
 > From https://github.com/octocat/repo
 >  * [new branch]      master     -> upstream/master
 When you're done making local changes, you can push your local branch to GitHub and initiate a pull request.
+
+source: https://help.github.com/en/articles/pushing-to-a-remote
